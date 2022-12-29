@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'AritaDotum';
+  font-style: normal;
+  font-weight: 300;
+  src: url(''),
+  url('../font/AritaDotumLight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 400;
+  src: url(''),
+  url('../font/NotoSansKR-Regular.subset.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GowunDotum';
+  font-style: normal;
+  font-weight: 500;
+  src: url(''),
+  url('../font/GowunDodum-Regular.ttf') format('woff2');
+}
+
+@font-face {
+  font-family: 'AritaDotum';
+  font-style: normal;
+  font-weight: 500;
+  src: url(''),
+  url('../font/AritaDotumMedium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'AritaDotum';
+  font-style: normal;
+  font-weight: 600;
+  src: url(''),
+  url('../font/AritaDotumSemiBold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'AritaDotum';
+  font-style: normal;
+  font-weight: 700;
+  src: url(''),
+  url('../font/AritaDotumBold.woff2') format('woff2');
+}
